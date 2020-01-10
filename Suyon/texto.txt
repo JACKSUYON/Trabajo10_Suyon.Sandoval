@@ -1,0 +1,4 @@
+se eligio la opcion noticias de tipo politica 
+se eligio la opcion noticias de tipo deporte 
+se eligio la opcion noticias de tipo espectaculo 
+se eligio la opcion noticias de tipo politica 
